@@ -1,0 +1,13 @@
+#!/usr/bin/bash
+## Programa para que la vaca hacker diga algo
+##  Requiere:
+##    - xcowsay
+##    - cowsay
+##    - Estatuto del Hacker: https://github.com/ubuntuperonista/Estatuto-del-Hacker
+
+# Variables ajustables
+COOKIE="fortune doctrina"
+IMAGEN="/usr/share/xcowsay/vaca.png"
+FUENTE="mono 22"
+
+${COOKIE} | xcowsay --image=${IMAGEN} --font="${FUENTE}" --cow-size=large
