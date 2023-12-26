@@ -1,0 +1,13 @@
+xvaca
+-----
+
+Agregue el fichero xvaca en /usr/local/games/ y dele permiso de ejecución. Agrega las gráficas de los personajes en /usr/share/xcowsay. 
+Por ejemplo, 
+
+Instalación en Ubuntu:
+
+  cd /tmp ;
+  git clone https://github.com/ubuntuperonista/xvaca/ ;
+  sudo cp /tmp/xvaca/xvaca /usr/local/games/;
+  sudo cp /tmp/xvaca/assets/*.png /usr/share/xcowsay ;
+  sudo chmod +x /usr/local/games/xvaca
