@@ -3,6 +3,8 @@
 xvaca es un script para xcowsay con nuevos personajes de la vaca de Huayra GNU/Linux.
 Muestra un personaje de vaca hacker con frases de adoctrinamiento.
 
+Arte de la vaca de Huayra: Carolina «Chinchi» Hortal, Claudio «Maléfico» Andaur
+
 ## Instalación
 
 * Primeramente instale [https://github.com/ubuntuperonista/Estatuto-del-Hacker]
