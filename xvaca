@@ -5,9 +5,11 @@
 ##    - cowsay
 ##    - Estatuto del Hacker: https://github.com/ubuntuperonista/Estatuto-del-Hacker
 
-# Variables ajustables
+
+### Ajustar las Variables:
 COOKIE="fortune doctrina"
-IMAGEN="/usr/share/xcowsay/vaca.png"
 FUENTE="mono 22"
+### Indica la imagen del personaje que quieres usar:
+IMAGEN="/usr/share/xcowsay/vaca.png"
 
 ${COOKIE} | xcowsay --image=${IMAGEN} --font="${FUENTE}" --cow-size=large
