@@ -30,6 +30,8 @@ Puedes optar por modificar este script <file>/usr/share/games/xvaca</file> para 
 
 <file>/usr/share/xcowsay/vaca.png</file>
 
+<file>/usr/share/xcowsay/vaca_hacker.png</file>
+
 <file>/usr/share/xcowsay/vaca_volando.png</file> 
 
 <file>/usr/share/xcowsay/ubuntu_peronista.png</file>
