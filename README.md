@@ -24,7 +24,7 @@ sudo chmod +x /usr/local/games/xvaca</code>
 ## Uso
 Ejecuta el script <file>xvaca</FILE>.
 
-Puedes optar por modificar este script <file>/usr/share/games/xvaca</file> para determinar un tipo de letra y tamaño diferente, o cambiar los personajes:
+Puedes optar por modificar este script <file>/usr/local/games/xvaca</file> para determinar un tipo de letra y tamaño diferente, o cambiar los personajes:
 
 <file>/usr/share/xcowsay/est_vaca.png</file>
 
@@ -37,6 +37,8 @@ Puedes optar por modificar este script <file>/usr/share/games/xvaca</file> para 
 <file>/usr/share/xcowsay/ubuntu_peronista.png</file>
 
 <file>/usr/share/xcowsay/vaca_volando.png</file>
+
+<file>/usr/share/xcowsay/vacapiloto_sabelotodo.png</file>
 
 <file>/usr/share/xcowsay/super_vaca.png</file>
 
