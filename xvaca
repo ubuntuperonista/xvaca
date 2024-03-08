@@ -10,6 +10,6 @@
 COOKIE="fortune doctrina"
 FUENTE="mono 22"
 ### Indica la imagen del personaje que quieres usar:
-IMAGEN="/usr/share/xcowsay/vaca.png"
+IMAGEN="/usr/share/xcowsay/vacapiloto_sabelotodo.png"
 
 ${COOKIE} | xcowsay --image=${IMAGEN} --font="${FUENTE}" --cow-size=large
