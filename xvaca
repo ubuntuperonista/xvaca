@@ -7,6 +7,7 @@
 
 
 ### Ajustar las Variables:
+export DISPLAY=:0.0
 COOKIE="fortune doctrina"
 FUENTE="mono 22"
 ### Indica la imagen del personaje que quieres usar:
