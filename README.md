@@ -15,11 +15,13 @@ fortune o fortune-mud, xcowsay
 
 * Agregue el fichero <file>xvaca</file> en /usr/local/games/ y dele permiso de ejecución. Agrega las gráficas de los personajes en <file>/usr/share/xcowsay</file>. Por ejemplo, en Ubuntu:
 
-<code>cd /tmp ;
+<code>
+cd /tmp ;
 git clone https://github.com/ubuntuperonista/xvaca/ ;
 sudo cp /tmp/xvaca/xvaca /usr/local/games/;
 sudo cp /tmp/xvaca/assets/*.png /usr/share/xcowsay ;
-sudo chmod +x /usr/local/games/xvaca</code>
+sudo chmod +x /usr/local/games/xvaca
+</code>
 
 ## Uso
 Ejecuta el script <file>xvaca</FILE>.
