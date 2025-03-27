@@ -19,12 +19,14 @@ fortune o fortune-mud, xcowsay
 cd /tmp ;
 git clone https://github.com/ubuntuperonista/xvaca/ ;
 sudo cp /tmp/xvaca/xvaca /usr/local/games/;
+sudo cp /tmp/xvaca/xrms /usr/local/games/;
 sudo cp /tmp/xvaca/assets/*.png /usr/share/xcowsay ;
 sudo chmod +x /usr/local/games/xvaca
+sudo chmod +x /usr/local/games/xrms
 ```
 
 ## Uso
-Ejecuta el script <file>xvaca</FILE>.
+Ejecuta el script <file>xvaca</FILE>, o <file>xrms</file>
 
 Puedes optar por modificar este script <file>/usr/local/games/xvaca</file> para determinar un tipo de letra y tamaño diferente, o cambiar los personajes:
 
