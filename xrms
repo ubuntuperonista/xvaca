@@ -1,0 +1,16 @@
+#!/usr/bin/bash
+## Programa para que St.Ignucius diga algo
+##  Requiere:
+##    - xcowsay
+##    - cowsay
+##    - Estatuto del Hacker: https://github.com/ubuntuperonista/Estatuto-del-Hacker
+
+
+### Ajustar las Variables:
+export DISPLAY=:0.0
+COOKIE="fortune rms"
+FUENTE="mono 22"
+### Indica la imagen del personaje que quieres usar:
+IMAGEN="/usr/share/xcowsay/rms.png"
+
+${COOKIE} | xcowsay --image=${IMAGEN} --font="${FUENTE}" --cow-size=large
