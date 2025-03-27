@@ -13,7 +13,7 @@ fortune o fortune-mud, xcowsay
 
 * Primeramente instale [https://github.com/ubuntuperonista/Estatuto-del-Hacker]
 
-* Agregue el fichero <file>xvaca</file> en /usr/local/games/ y dele permiso de ejecución. Agrega las gráficas de los personajes en <file>/usr/share/xcowsay</file>. Por ejemplo, en Ubuntu:
+* Agregue los ficheros <file>xvaca</file> y <file>xrms</file> en /usr/local/games/ y dele permiso de ejecución. Agrega las gráficas de los personajes en <file>/usr/share/xcowsay</file>. Por ejemplo, en Ubuntu:
 
 ```
 cd /tmp ;
